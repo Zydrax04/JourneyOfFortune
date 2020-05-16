@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ enemy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=boolean\ underPlayer()
+comment11.params=min\ max
+comment11.target=int\ getRandom(int,\ int)
+comment2.params=
+comment2.target=void\ falling()
+comment3.params=
+comment3.target=void\ gravitatie()
+comment4.params=
+comment4.target=boolean\ onGround()
+comment5.params=
+comment5.target=boolean\ underCollision()
+comment6.params=
+comment6.target=boolean\ rightCollision()
+comment7.params=
+comment7.target=boolean\ leftCollision()
+comment8.params=
+comment8.target=int\ playerSideCollision()
+comment9.params=
+comment9.target=boolean\ onPlayer()
+numComments=12

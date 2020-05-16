@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=level3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ level3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ Music\ by\ Adrian\ von\ Ziegler\r\n\ Artwork\ by\ MGG\ -\ "Pixelantasy"\ \r\n
+comment1.params=hpWar\ hpBarb
+comment1.target=level3(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ level3.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ barbHP()
+comment4.params=
+comment4.target=void\ warHP()
+comment5.params=
+comment5.target=boolean\ finishLevel()
+comment6.params=
+comment6.target=void\ checkGameOver()
+comment7.params=start\ end
+comment7.target=int\ getRandomNumber(int,\ int)
+comment8.params=
+comment8.target=void\ prepare()
+comment8.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=9
